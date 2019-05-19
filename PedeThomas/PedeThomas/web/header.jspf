@@ -1,0 +1,11 @@
+<header>
+    <h1>
+        <img src="images/brush-strokes.jpg" alt="brush-strokes">
+    </h1>
+    <nav class="nav"><ul>
+        <li><a href="Servlet?action=index">Home</a> </li>
+        <li><a href="Servlet?action=overview">Overzicht</a> </li>
+        <li><a href="voegToe.jsp">Voeg toe</a> </li>
+    </ul>
+    </nav>
+</header>
